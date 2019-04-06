@@ -1831,10 +1831,10 @@
     dom-event-types "^1.0.0"
     lodash "^4.17.4"
 
-"@vue/ui@^0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@vue/ui/-/ui-0.8.0.tgz#9eac11e62fe0165af77fde079a52b41b2ab1693e"
-  integrity sha512-vfM9+e0Q2eqBWRd9tG1nS999gbmsPwNd2mOsC59UKe85bDniObj4SE1aerHV+M3UezOX4R/NNxujJMwJ2mtreA==
+"@vue/ui@^0.8.2":
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/@vue/ui/-/ui-0.8.2.tgz#371fe1a9a81093b63f4acf1f63aaf676bde746a2"
+  integrity sha512-R6wPk8VIy9GNE7lpdZA4AFpAP3yyAxW2KW4sMilluS609OzAs1y8WG2xiq0buB0MCit9YcL9N0TZR05PYLTx3g==
   dependencies:
     focus-visible "^4.1.5"
     v-tooltip "^2.0.0-rc.33"
